@@ -365,4 +365,5 @@ ajax: {
 ### Halaman Edit ![Edit](screenshots/edit.png)
 
 ## LINK GDRIVE: 
-https://drive.google.com/drive/folders/1Pmlsxbg4NmJnun3HUwSCQmqNMUepwv4d?usp=sharing
+https://drive.google.com/file/d/1USsx--MjRNcGs1jJGMZN49YDsfPNqtSW/view?usp=sharing
+
