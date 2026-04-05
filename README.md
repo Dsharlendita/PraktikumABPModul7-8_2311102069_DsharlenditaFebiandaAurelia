@@ -363,3 +363,6 @@ ajax: {
 ### Halaman Form ![Form](screenshots/form.png) 
 ### Halaman Data ![Data](screenshots/tabel.png) 
 ### Halaman Edit ![Edit](screenshots/edit.png)
+
+## LINK GDRIVE: 
+https://drive.google.com/drive/folders/1Pmlsxbg4NmJnun3HUwSCQmqNMUepwv4d?usp=sharing
